@@ -4,7 +4,7 @@ Ctl-Opt Main(REPO3);
 
 Dcl-Proc REPO3;
 
-    snd-msg ' Hola Bienvenido a [IBMi] <-> Visual Studio Code ';
+    snd-msg ' Hola saludos a [IBMi] desde Visual Studio Code ';
 
 Return;
 *Inlr = *On;
