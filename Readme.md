@@ -3,3 +3,5 @@
 ## Para realizar el despliegue de cualquier fuente es necesario tener en el IFS una carpeta (proyecto nuevo) donde se alojarán los datos del despliegue. Una vez creada, añadir un shortcut. Esta carpeta hay que seleccionarla como destino de nuestros despliegues: Set Deploy WorkSpace Location.
 
 ## Nuevo cambio 30/09/2025 - 09:27. Hay que guardarlo para que lo detecte el control de cambios de codigo fuente.
+
+## Con GitLens(extensión) podemos ver todo el histórico de los cambios (de no tener esta extensión se vería el histórico a través de Linea del Tiempo)
